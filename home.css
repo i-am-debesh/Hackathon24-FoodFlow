@@ -99,7 +99,7 @@ header{
     left: 0;
     right: 0;
     width: 100vw;
-    background-color: #963de98d;
+    background-color: #963de9e3;
     transition: 0.2s;
     overflow: hidden;
 
@@ -135,7 +135,7 @@ header{
 .banner{
   width: auto;
   height: auto;
-  background:url('img/coverimage.jpeg')no-repeat;
+  background:url('img/Food-Waste.jpg')no-repeat;
   background-size: cover;
   display: grid;
   place-items:center;
