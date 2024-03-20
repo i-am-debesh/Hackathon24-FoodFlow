@@ -22,16 +22,7 @@ body{
 
 
 .regform{ 
-  /* position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 420px;
-  border: 1px solid  rgba(0,0,0,0.05);
-  background: white;
-  border-radius: 10px;
-  box-shadow: 10px 10px 15px rgba(0,0,0,0.05);
-  */
+  
 
     width:430px;
     background-color:white;
@@ -185,15 +176,6 @@ button:hover{
 
     
   }
-/*  */
-  /* .input #email{
-    display: block;
-    width: 200px;
-  }
-  .input #phoneno{
-    width: 200px;
-    display: block;
-  } */
 
 
 
@@ -201,9 +183,7 @@ button:hover{
 
 
     .regform{ 
-      /* position: absolute;
-      top: 50%;
-      left: 50%; */
+      
     
         width: 300px;
         background-color:white;
