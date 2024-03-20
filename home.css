@@ -5,6 +5,9 @@
   --green:#963de9;
   --box-shadow:0 .5rem 1rem rgba(0,0,0.1)
 }
+.home-page {
+  cursor: pointer;
+}
 *{
   
   margin: 0;
@@ -135,7 +138,7 @@ header{
 .banner{
   width: auto;
   height: auto;
-  background:url('img/Food-Waste.jpg')no-repeat;
+  background:url('img/coverimage.jpeg')no-repeat;
   background-size: cover;
   display: grid;
   place-items:center;
@@ -158,6 +161,12 @@ and (min-device-width : 1200px)
     }
     .wrapper{
       padding:20px 40px 20px 40px;
+    }
+    .banner2 {
+      background: url('img/freeFood.jpg')no-repeat;
+      background-position: right;
+      
+      
     }
     
   
